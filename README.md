@@ -2,7 +2,7 @@
 
 WinRemind is a simple reminder application designed for iPhones, but it also works with iPad and MacOS. It provides the simple capability to add new reminders, save them in a simple list, and mark them as done. I threw this together in an hour while experimenting with modal views, checkboxes and dates in SwiftUI, and perhaps may be expanded in the future.
 
-![Main screen](https://i.postimg.cc/52RzjxH3/Clean-Shot-2021-06-08-at-15-18-50.png)
+![Main screen](https://i.postimg.cc/kgpR8jYN/2022-06-02-23-06-39-in-Xcode.png)
 ![](https://i.postimg.cc/CKnqqWkV/Clean-Shot-2021-06-08-at-15-19-01.png)
 ![](https://i.postimg.cc/fLxSHm82/Clean-Shot-2021-06-08-at-15-19-52.png)
 ![](https://i.postimg.cc/prRh3r72/Clean-Shot-2021-06-08-at-15-20-35.png)
